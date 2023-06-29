@@ -1,4 +1,4 @@
 # Python_Projects
-List of Projects made using Python
-1.Digital Clock
-2.Rock Paper Scissors
+### List of Projects made using Python</br>
+1.Digital Clock </br>
+2.Rock Paper Scissors Game</br>
